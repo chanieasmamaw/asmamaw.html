@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>This is <strong> Dr. Asmamaw Yehun </strong>, home page who is curretlly software engineer in masterschool, studing in python programming</title>
+</head>
+<body>
+<div>
+    <p>This is <strong> Dr. Asmamaw Yehun</strong>, home page who is curretlly <em>software engineer</em> in masterschool,
+        studing in python programming  </p>
+    <p> This home page is created for geospatial communties and we would like to ask, if you need to re-update the oage</p>
+    <a href="https://www.sofftware.engineer2025-asmamaw.com"> Dr. Asmamaw web  site </a>
+    <a href="about.html"> Dr. Asmamaw web  site page </a>
+    <blockquete cite="http://www.google.com">
+we are in the guttar, but some of are looking files at the start
+</blockquete>
+<p style="color":orange;" >style me: )</p>
+    <!--span tag below-->
+
+</div>
+
+<div>
+    <h1>heading1</h1>
+        <h2>heading2</h2>
+            <h3>heading3</h3>
+            <h4>heading4</h4>
+</div>
+
+<div>
+    <ul>
+    <li>yoshi</li>
+        <li>lugig</li>
+        <li>told</li>
+    </ui>
+        </div>
+<smantag>I am in <br> smantag </smantag>
+<hr></hr>
+<img src = "https://i1.rgstatic.net/ii/profile.image/593519823568897-1518517561803_Q512/Asmamaw-Yehun.jpg" alt = "A pictur of GPS works at Hawassa city, 2023">
+</body>
+</html>
